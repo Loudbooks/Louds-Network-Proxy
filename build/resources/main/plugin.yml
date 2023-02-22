@@ -1,0 +1,4 @@
+name: LoudsNetworkProxy
+main: com.loudbook.dev.LoudsProxy
+version: 1.0
+author: Loudbook
